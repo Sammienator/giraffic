@@ -1,2 +1,2 @@
 # giraffic
-an eccomerce website using bootstrap 5 htlm 5 css3 and javascript.
+an eccomerce website using BOOTSTRAP5 HTML5 CSS3 and JAVASCRIPT.
